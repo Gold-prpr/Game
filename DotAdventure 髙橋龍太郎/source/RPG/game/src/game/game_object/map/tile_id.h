@@ -1,0 +1,28 @@
+#pragma once
+
+enum class TILE_ID
+{
+	DARD1,
+	DARD2,
+	SAND1,
+	SAND2,
+	WHITE_BLOCK,
+	SEA1,
+	ICE,
+	IRON_BLOCK,
+	RED_BLOCK,
+	GOLD_BLOCK,
+
+	TREE1,
+	TREE2,
+	N,
+	UL,
+	L,
+	SEA_WALL,
+	ICE_WALL,
+	IRON_WALL,
+	RED_WALL,
+	GOLD_WALL,
+
+	MAX
+};

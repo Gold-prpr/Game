@@ -1,0 +1,38 @@
+{
+  "file": "data\\ƒ†ƒjƒbƒg\\pipo-charachip021d.png",
+
+  "frame": {
+    "width": 80,
+    "height": 80,
+    "cols": 3,
+    "rows": 4
+  },
+
+  "animations": {
+    "down": {
+      "frames": [ 0, 1, 2, 1 ],
+      "interval": 0.3,
+      "loop": true
+    },
+    "left": {
+      "frames": [ 3, 4, 5, 4 ],
+      "interval": 0.3,
+      "loop": true
+    },
+    "right": {
+      "frames": [ 6, 7, 8, 7 ],
+      "interval": 0.3,
+      "loop": true
+    },
+    "up": {
+      "frames": [ 9, 10, 11, 10 ],
+      "interval": 0.3,
+      "loop": true
+    },
+    "stop": {
+      "frames": [ 0, 0, 0, 0 ],
+      "interval": 0.3,
+      "loop": false
+    }
+  }
+}

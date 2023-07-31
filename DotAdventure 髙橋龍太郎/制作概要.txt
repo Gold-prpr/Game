@@ -1,0 +1,33 @@
+DotAdventure
+髙橋 龍太郎
+
+プログラムは
+"source\\RPG\\project\\aqua.sln"
+からご覧になることができます。
+
+情報
+• ジャンル RPG
+• 製作期間 ６か月
+• 所要時間 ２５０～３００時間
+• 人数 1人 プログラマー
+
+環境
+・Microsoft Visual Studio Community 2019
+　(Version 16.11.24)
+　Microsoft Visual C++ 2019
+・GitHubDesktop
+　(Version 3.2.6 (x64))
+・DxLib(ライブラリ)
+　(Version 3.24)
+・AQUAライブラリ(学校独自のライブラリ)
+
+操作方法
+マップ画面 
+・矢印キーで移動 
+・Fキーで宝箱開封 
+・Eキーでインベントリー画面 
+・ENTERでボスと戦闘開始
+戦闘画面
+・Bキーでひとつ前に戻る
+・矢印キーで移動
+・ENTERで決定

@@ -1,0 +1,9 @@
+#pragma once
+#include "aqua.h"
+#include "character/character.h"
+#include "camera_setting/camera_setting.h"
+#include "stage/stage.h"
+#include "gun/gun.h"
+#include "bullet_manager/bullet_manager.h"
+#include "enemy_manager/enemy_manager.h"
+#include "ui/ui.h"

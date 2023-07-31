@@ -1,0 +1,23 @@
+{
+  "file": "data\\ƒ†ƒjƒbƒg\\maou.png",
+
+  "frame": {
+    "width": 160,
+    "height": 160,
+    "cols": 4,
+    "rows": 1
+  },
+
+  "animations": {
+    "down": {
+      "frames": [ 0, 1, 2, 1 ],
+      "interval": 0.3,
+      "loop": true
+    },
+    "stop": {
+      "frames": [ 0, 0, 0, 0 ],
+      "interval": 0.3,
+      "loop": false
+    }
+  }
+}
