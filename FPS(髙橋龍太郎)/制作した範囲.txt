@@ -1,0 +1,7 @@
+制作人数:1人（プログラマー）
+
+制作した部分
+・プロジェクト//3D//aqua//src//graphics//model
+・プロジェクト//3D//aqua//src//mathematics//matrix
+・プロジェクト//3D//aqua//src//utility//camera
+・プロジェクト//3D//game//game_object
